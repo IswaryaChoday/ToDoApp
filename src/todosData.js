@@ -21,9 +21,35 @@ const todosData = [
     },
     {
         id: 5,
-        text: "Catch up on Arrested Development",
+        text: "Walk the Dog",
+        completed: false
+    },
+    {
+        id: 6,
+        text: "Vaccum the house",
+        completed: true
+    },
+    {
+        id: 7,
+        text: "Finish homework",
+        completed: false
+    },
+    {
+        id: 8,
+        text: "Wash the car ",
+        completed: false
+    },
+    {
+        id: 9,
+        text: "Finish Laundry",
+        completed: true
+    },
+    {
+        id: 10,
+        text: "Call Dr.Ramsay ",
         completed: false
     }
+
 ]
 
 export default todosData
